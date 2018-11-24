@@ -1,4 +1,4 @@
 # AEnigma
-Program simulating Enigma. (PL)
+Enigma simulator. (PL)
 
-Program napisany w CodeBlocks z nakładką wxWidgets. 
+Program napisany w CodeBlocks, wersja graficzna z nakładką wxWidgets. 
